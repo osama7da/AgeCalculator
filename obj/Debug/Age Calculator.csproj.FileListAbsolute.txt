@@ -1,0 +1,10 @@
+D:\My Csharp training\Age Calculator\bin\Debug\Age Calculator.exe.config
+D:\My Csharp training\Age Calculator\bin\Debug\Age Calculator.exe
+D:\My Csharp training\Age Calculator\bin\Debug\Age Calculator.pdb
+D:\My Csharp training\Age Calculator\obj\Debug\Age Calculator.csproj.AssemblyReference.cache
+D:\My Csharp training\Age Calculator\obj\Debug\Age_Calculator.Form1.resources
+D:\My Csharp training\Age Calculator\obj\Debug\Age_Calculator.Properties.Resources.resources
+D:\My Csharp training\Age Calculator\obj\Debug\Age Calculator.csproj.GenerateResource.cache
+D:\My Csharp training\Age Calculator\obj\Debug\Age Calculator.csproj.CoreCompileInputs.cache
+D:\My Csharp training\Age Calculator\obj\Debug\Age Calculator.exe
+D:\My Csharp training\Age Calculator\obj\Debug\Age Calculator.pdb
